@@ -1,4 +1,4 @@
-# 🖥️ HardwareZone
+# HardwareZone
 ---
 ## Panoramica del progetto
 Questo progetto, sviluppato nell'ambito del corso di **Tecnologie Software per il Web** presso l'Università degli Studi di Salerno, è un sito web di e-commerce. L'obiettivo principale è offrire agli utenti un'esperienza di acquisto online intuitiva e funzionale.
